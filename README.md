@@ -1,6 +1,6 @@
 # Read Me First
 
-This is a Gradle Kotlin project for Intellij IDEA
+This is a Gradle Kotlin project for Intellij IDEA. Using Gradle 7.3.1
 
 It uses a proprietary library weaves0..jar, this can be found in repository eepgwde:jspring0/weaves0
 Use the .jar.original copy or link as required.
